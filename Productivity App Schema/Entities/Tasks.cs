@@ -17,7 +17,7 @@ namespace Productivity_App_Schema.Entities
 
         public Projects Projects { get; set; }
 
-        public List <Deadlines> Deadlines { get; set; }
+
 
 
     }
